@@ -6,20 +6,15 @@
 [![twitter profile link](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/karmokardhruv)
 [![spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/e93h5hhxuz710hu0e6az6sbpc)
 
-## [Hi everybody!](https://nicolezattarin.github.io)
-- 🎓 BSc in Physics @ University of Milan
-- 🎓 MSc in ICT for Internet and Multimedia @ University of Padova
-- 📈 Algorithmic Trading Quant @ XSOR Capital
-- 👩🏻‍💻 Interested in AI, data analytics 
+## 🙋‍♂️ About me
+- 🗺 I'm from India 🇮🇳
+- 🎓 B.Tech. in CS @ Vellore Institute of Technology, Chennai
+- 👩🏻‍💻 Interested in AI, Data Science
 - 🏎️ Fun facts: F1 fanatic
 
-Contact: nicole.zattarin@gmail.com
+Contact: dhruv123karmokar@gmail.com
 
-Personal page [here](https://nicolezattarin.github.io)
-
- 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-zattarin-a87768105/)
-  
+Personal page [here](https://karmokardhruv.github.io)
 
 <p align="left">
   <a href="https://skillicons.dev">
