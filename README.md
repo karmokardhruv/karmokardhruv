@@ -12,6 +12,8 @@
 - 👩🏻‍💻 Interested in AI, Data Science
 - 🏎️ Fun facts: F1 fanatic
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karmokardhruv&label=Profile%20views&color=0e75b6&style=flat" alt="karmokardhruv" /> </p>
+
 Contact: dhruv123karmokar@gmail.com
 
 Personal page [here](https://karmokardhruv.github.io)
