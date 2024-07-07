@@ -18,6 +18,8 @@ Contact: dhruv123karmokar@gmail.com
 
 Personal page [here](https://karmokardhruv.github.io)
 
+<h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,c,cpp,html,css,java,pycharm,py,pytorch,tensorflow,opencv,r,aws,anaconda,flask,matlab,arduino,apple,pr,codepen,discord,heroku,linux,mint,ubuntu,vscode,windows" />
