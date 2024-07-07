@@ -20,6 +20,6 @@ Personal page [here](https://karmokardhruv.github.io)
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,cpp,py,pytorch,tensorflow,r" />
+    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,html,css,java,pycharm,py,pytorch,tensorflow,keras,opencv,r,aws,anaconda,flask,sql,matlab,arduino,apple,pr,codepen,discord,heroku,linux,mint,ubuntu,vscode,windows" />
   </a>
 </p>
