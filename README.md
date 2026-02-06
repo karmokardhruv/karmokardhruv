@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About me
 - 🗺 I'm from India 🇮🇳
-- 🎓 B.Tech. in CS @ Vellore Institute of Technology, Chennai
+- 🏢 @ TCS
 - 👩🏻‍💻 Interested in AI, Data Science
 - 🏎️ Fun facts: F1 fanatic
 
