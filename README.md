@@ -8,7 +8,6 @@
 
 ## 🙋‍♂️ About me
 - 🗺 I'm from India 🇮🇳
-- 🏢 @ TCS
 - 👩🏻‍💻 Interested in AI, Data Science
 - 🏎️ Fun facts: F1 fanatic
 
